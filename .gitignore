@@ -1,0 +1,5 @@
+#忽略index.html文件
+index.html
+
+#忽略test目录的所有文件
+test/
